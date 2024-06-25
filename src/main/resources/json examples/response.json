@@ -1,0 +1,84 @@
+{
+  "property_id": null,
+  "name": "Krishvi Gavakshi",
+  "title": "3 Bhk in Krishvi Gavakshi",
+  "owner": {
+    "owner_id": "fb48a320-e2f7-43da-84fd-bfce7b13c396",
+    "owner_name": "Ankit Biswas",
+    "owner_email": "ankit.biswas@gmail.com",
+    "owner_contact": "8274864610",
+    "owner_pan": "CGVPB2021D",
+    "owner_contact_addr": "B234 Krishvi Gavakshi Bangalore",
+    "notes": "Owner needs Discussion"
+  },
+  "propertySpecs": {
+    "full_address": {
+      "addr_id": "dda86c2b-ce09-48cf-9243-faf99d3c557b",
+      "house_no": "B234",
+      "street_name": "Kaverappa Layout",
+      "property_name": "Krishvi Gavakshi",
+      "pincode": 560103,
+      "city": "Bangalore",
+      "state": "Karnatka"
+    },
+    "type": "society",
+    "super_area": 2500.0,
+    "carpet_area": 2000.0,
+    "beds": 2,
+    "bath": 2,
+    "balcony": 1,
+    "parking": "Car",
+    "facing": "East",
+    "property_age": "5 years",
+    "furnishing": "Semi-Furnished",
+    "flooring": "vitrified",
+    "city": "Bangalore",
+    "description": "3 Bhk Semi Furnished Flat in Gated Society",
+    "amenitiesMap": {
+      "amenities_id": "96a23dec-bffe-4419-82e3-ed7e33b34460",
+      "lift": true,
+      "club_house": true,
+      "intercom": true,
+      "swimming_pool": true,
+      "children_play_area": true,
+      "fire_safety": true,
+      "security": true,
+      "park": false,
+      "rain_water_harvesting": false,
+      "sewage_treatment_plant": false,
+      "housekeeping": true,
+      "power_backup": true
+    },
+    "latitude": "12.935982654208626",
+    "longitude": "77.69761095282009",
+    "locationurl": "https://goo.gl/maps/x9zvak2EFwoNMZ5k8"
+  },
+  "imageMap": [
+    {
+      "id": null,
+      "name": "rahie.jpg",
+      "size": 148386,
+      "url": "http://localhost:9091/files/67813d49-169e-4921-a84d-b0f9de526d98",
+      "contentType": "multipart/form-data"
+    },
+    {
+      "id": null,
+      "name": "rikee.jpg",
+      "size": 148386,
+      "url": "http://localhost:9091/files/a721a539-a399-407f-960a-33af0336b78a",
+      "contentType": "multipart/form-data"
+    }
+  ],
+  "active_status": false,
+  "inactive_reason": "processing_stage",
+  "posted_on": "2021-09-11T12:38:00.000+00:00",
+  "available_from": "2021-09-11T12:38:00.000+00:00",
+  "property_rent": 27000.0,
+  "property_maintenance": 4000.0,
+  "preferred_tenant_type": "ALL",
+  "created_by": "SYSTEM",
+  "created_on": "2021-09-11T12:40:00.000+00:00",
+  "changed_by": null,
+  "changed_on": null,
+  "managed": false
+}

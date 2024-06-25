@@ -1,0 +1,85 @@
+
+{
+  "name": "Krishvi Gavakshi",
+  "title": "2 Bhk in Krishvi Gavakshi",
+  "full_address":
+    {
+      "house_no": "A103",
+      "street_name": "Kaverappa Layout",
+      "property_name": "Krishvi Gavakshi",
+      "pincode": "560103",
+      "city": "Bangalore",
+      "state": "Karnatka"
+    },
+  "owner":
+    {
+      "owner_name": "Siva Reddy",
+      "owner_email": "siva.reddy@gmail.com",
+      "owner_contact": "7892014327",
+      "owner_pan": "CGVPB2011D",
+      "owner_contact_addr": "A093 Krishvi Gavakshi Bangalore",
+      "notes": "Owner needs Discussion"
+    }
+  ,
+  "isManaged": "false",
+  "type": "society",
+  "super_area": "1257",
+  "carpet_area": "1000",
+  "beds": "2",
+  "bath": "2",
+  "balcony": "1",
+  "parking": "Car",
+  "facing": "East",
+  "property_age": "5 years",
+  "furnishing": "Semi-Furnished",
+  "flooring": "vitrified",
+  "active_status": "false",
+  "inactive_reason": "processing_stage",
+  "posted_on": "2021-09-11T12:38:00.000Z",
+  "available_from": "2021-09-11T12:38:00.000Z",
+  "property_rent": "27000",
+  "property_maintenance": "4000",
+  "city": "Bangalore",
+  "description": "2 Bhk Semi Furnished Flat in Gated Society",
+  "amenitiesMap":
+    {
+      "lift": "true",
+      "club_house": "true",
+      "intercom": "true",
+      "swimming_pool": "true",
+      "children_play_area": "true",
+      "fire_safety": "true",
+      "security": "true",
+      "park": "false",
+      "rain_water_harvesting": "false",
+      "sewage_treatment_plant": "false",
+      "housekeeping": "true",
+      "power_backup": "true"
+    }
+  ,
+  "latitude": "12.935982654208626",
+  "longitude": "77.69761095282009",
+  "locationurl": "https://goo.gl/maps/x9zvak2EFwoNMZ5k8",
+  "preferred_tenant_type": "ALL",
+  "created_by": "SYSTEM",
+  "created_on": "2021-09-11T12:40:00.000Z"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

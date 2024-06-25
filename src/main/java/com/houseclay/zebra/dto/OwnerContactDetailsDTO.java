@@ -1,0 +1,24 @@
+package com.houseclay.zebra.dto;
+
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+import java.util.UUID;
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+@Builder(toBuilder = true)
+public class OwnerContactDetailsDTO {
+
+    private UUID owner_id;
+
+    private String owner_name;
+
+    private String owner_email;
+
+    private String owner_contact;
+
+}
